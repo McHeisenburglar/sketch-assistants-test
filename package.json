@@ -44,6 +44,6 @@
     "webpack-cli": "3.3.12"
   },
   "dependencies": {
-    "@sketch-hq/sketch-assistant-types": "6.0.0"
+    "@sketch-hq/sketch-core-assistant": "^6.3.2"
   }
 }
